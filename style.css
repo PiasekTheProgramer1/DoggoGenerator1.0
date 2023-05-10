@@ -1,0 +1,35 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+body {
+  background-color: orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.button {
+  height: 700px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button img {
+  height: 700px;
+  width: 1000px;
+}
+
+.Doggogenerator {
+  margin: 5px;
+  font-size: 2.5em;
+}
+
+.h1napis {
+  margin-bottom: 8px;
+  margin-top: 6px;
+}
